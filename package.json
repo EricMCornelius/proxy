@@ -1,0 +1,34 @@
+{
+  "name": "posh",
+  "description": "Node.js harmony recursive object proxy",
+  "homepage": "https://github.com/EricMCornelius/proxy",
+  "keywords": [
+    "proxy",
+    "harmony"
+  ],
+  "main": "./lib/proxy",
+  "author": {
+    "name": "Eric M. Cornelius",
+    "email": "EricMCornelius@gmail.com",
+    "url": "https://github.com/EricMCornelius"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EricMCornelius/proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EricMCornelius/proxy/issues",
+    "email": "EricMCornelius@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/EricMCornelius/proxy/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=0.8.*"
+  },
+  "dependencies": { }
+}
